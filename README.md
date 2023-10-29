@@ -62,8 +62,8 @@
   <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
 
   <div align="left">
-    <img src="./media/Boggle.png" alt="1" width="300px" />
-    <img src="./media/Entry_Boggle.png" alt="1" width="300px" />
+    <img src="./media/boggle_out.png" alt="1" width="300px" />
+    <img src="./media/boggle_in.png" alt="1" width="300px" />
   </div>
 </div>
 
