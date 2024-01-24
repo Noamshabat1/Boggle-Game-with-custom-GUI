@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
+  <h1 align="center" style="border-bottom: none"><b>Introduction to Computer Science - Exercise 12 - Boggle with custom GUI</b></h1>
+
+
+<div align="center">
   <p align="center">
     <b>Boggle</b> is the 12th and last exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
     <br>
